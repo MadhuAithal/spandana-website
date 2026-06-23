@@ -15,7 +15,7 @@ Static six-page website for Spandana NGO Trust, built to host free on GitHub Pag
 2. **Impact stories** (`impact.html`) — swap the three placeholder stories for real scholarship-recipient stories.
 3. **UPI QR + bank details** (`support.html`) — add the Federal Bank UPI QR image and fill account/UPI/IFSC.
 4. **Email** (`contact.html`, `support.html`) — add the real email; connect the contact form (e.g. Formspree) or switch to a mailto link.
-5. **Cloudflare Web Analytics** — paste your token snippet in the marked spot inside each page's `<head>` (or add via Cloudflare dashboard once the domain is proxied).
+5. **Cloudflare Web Analytics** — already integrated (token embedded in all six pages). Data appears in the Cloudflare dashboard once the site is live and receiving visits.
 
 ## Hosting (GitHub Pages)
 1. Create a repository, upload these files.

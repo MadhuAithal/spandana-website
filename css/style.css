@@ -255,3 +255,7 @@ input:focus,textarea:focus{outline:none;border-color:var(--clay)}
 .member p{font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:var(--clay-deep);font-weight:600;margin-top:6px}
 @media(max-width:900px){.team{grid-template-columns:repeat(3,1fr)}}
 @media(max-width:560px){.team{grid-template-columns:repeat(2,1fr);gap:18px}}
+
+.qr{margin:18px 0;max-width:230px}
+.qr img{width:100%;height:auto;border:1px solid var(--line);border-radius:var(--r);background:#fff}
+.qr figcaption{font-size:.82rem;color:var(--muted);margin-top:8px}
